@@ -1,0 +1,47 @@
+
+.text-créer{
+    background-color:#167800;
+    color: rgb(241, 247, 245);
+}
+
+.text-créer{
+    font-size: 20px;
+}
+
+input{  
+    margin-top: 20px;
+    margin-bottom:10px;
+    margin-left: 10px;
+    margin-right:30px;
+
+}
+
+input{  
+    
+    
+    border-right: 100px #020a01;
+    border-left: 100px #020a01;
+    border-bottom: 100px #020a01;
+    
+}
+
+
+
+
+label{
+    margin-top: 200px;
+    margin-bottom:100px;
+    margin-left: 10px;
+    margin-right:300px;
+}
+
+
+.text-créer{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 80px;
+    padding-left: 80px;
+
+}
+
